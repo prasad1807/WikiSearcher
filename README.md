@@ -4,7 +4,7 @@
 
 ## About
 
-App[Wikipedia API](https://www.mediawiki.org/wiki/API:Page_info_in_search_results) to show a list of search results.
+App [Wikipedia API](https://www.mediawiki.org/wiki/API:Page_info_in_search_results) to show the search results from Wiki.
 
 ## Built With
 
@@ -23,12 +23,13 @@ that sequentially emits values and completes normally or with an exception.
 
 ## Features
 
-> 100% made with Kotlin
-> Made with constraint layout and fragments
-> Navigation Drawer
-> Room Database for offline support
-> Recyclerview with CardView
-> In app runtime permission support
-> Material Design Support(CardView, RecyclerView, etc..)
+- 100% made with Kotlin
+- Made with constraint layout and fragments
+- Navigation Drawer
+- Room Database for offline support
+- Recyclerview with CardView
+- In app runtime permission support
+- Material Design Support(CardView, RecyclerView, etc..)
 
+## Contact
 For any Help Contact me.
